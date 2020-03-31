@@ -1,20 +1,24 @@
 {
-  "id": "social_back-end",
-  "name": "Social Back-end",
-  "categoryId": "administration",
-  "description": "Intuitive 5th generation conglomeration",
-  "investment_24m": "572",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "61",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "117",
-  "deployment_date": "21/5/11",
-  "end_of_maintenance": "19/9/17",
-  "department": "Product Management",
-  "status": "Decomissioned",
-  "end_of_life": "19/5/19",
-  "months_to_renew_support": "2",
-  "sme_email": "Crosby.Launder@memento.net.au",
-  "investment_number": "394"
+  "applications": [
+    {
+      "id": "social_back-end",
+      "name": "Social Back-end",
+      "categoryId": "administration",
+      "description": "Intuitive 5th generation conglomeration",
+      "investment_24m": "572",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "61",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "117",
+      "deployment_date": "21/5/11",
+      "end_of_maintenance": "19/9/17",
+      "department": "Product Management",
+      "status": "Decomissioned",
+      "end_of_life": "19/5/19",
+      "months_to_renew_support": "2",
+      "sme_email": "Crosby.Launder@memento.net.au",
+      "investment_number": "394"
+    }
+  ]
 }
