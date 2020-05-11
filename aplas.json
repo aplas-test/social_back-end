@@ -9,23 +9,22 @@
       "description": "Intuitive 5th generation conglomeration",
       "categoryId": "administration",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "61",
       "status_color": "#FF0000",
       "department": "Product Management",
       "hostedtype": "OnPremise",
       "deployment_date": "21/5/11",
-      "investment_number": "394",
+      "investment_number": 394,
       "type": "InHouseDev",
       "sme_email": "Crosby.Launder@memento.net.au",
       "investment_24m": "572",
       "support_cost": "117",
       "end_of_life": "19/5/19",
-      "months_to_renew_support": "2",
+      "months_to_renew_support": 2,
       "end_of_maintenance": "19/9/17",
       "integrations": [
         {
-          "assetId": "int-427",
+          "id": "int-427",
           "name": "INT-427",
           "shortName": null,
           "version": "4.83",
@@ -33,7 +32,6 @@
           "payload": "Price - GSA Price and deals",
           "targetApplicationId": "solution_modularity",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -46,7 +44,7 @@
           "golive_date": "23/10/15"
         },
         {
-          "assetId": "int-033",
+          "id": "int-033",
           "name": "INT-033",
           "shortName": null,
           "version": "7.2.3",
@@ -54,7 +52,6 @@
           "payload": "Distributed Method Extract Vendor Extract",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -67,7 +64,7 @@
           "golive_date": "9/12/06"
         },
         {
-          "assetId": "int-420",
+          "id": "int-420",
           "name": "INT-420",
           "shortName": null,
           "version": "0.29",
@@ -75,7 +72,6 @@
           "payload": "Product Price",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -88,7 +84,7 @@
           "golive_date": "13/9/15"
         },
         {
-          "assetId": "int-488",
+          "id": "int-488",
           "name": "INT-488",
           "shortName": null,
           "version": "0.33",
@@ -96,7 +92,6 @@
           "payload": "Purchase Order - Store Order",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -109,7 +104,7 @@
           "golive_date": "6/4/13"
         },
         {
-          "assetId": "int-015",
+          "id": "int-015",
           "name": "INT-015",
           "shortName": null,
           "version": "2.8",
@@ -117,7 +112,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -130,7 +124,7 @@
           "golive_date": "29/11/01"
         },
         {
-          "assetId": "int-168",
+          "id": "int-168",
           "name": "INT-168",
           "shortName": null,
           "version": "3.3",
@@ -138,7 +132,6 @@
           "payload": "Distributed Method Extract Vendor Extract",
           "targetApplicationId": "social_innovation",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "decom_date": "9/2/13",
           "status_color": "#FF0000",
